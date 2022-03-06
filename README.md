@@ -24,10 +24,8 @@ git clone https://github.com/Yasir133/KHAN-XD
 
 https://github.com/SubhanXKhan/KHAN-XD.git
 
-
 ls
 
 cd KHAN-XD
-
 ls
 python2 SUBHAN-OK.py
