@@ -20,7 +20,10 @@ pkg install figlet
 
 pip2 install ipaddress
 
-git clone https://github.com/SubhanXKhan/KHAN-XD.git
+git clone https://github.com/Yasir133/KHAN-XD
+
+https://github.com/SubhanXKhan/KHAN-XD.git
+
 
 ls
 
